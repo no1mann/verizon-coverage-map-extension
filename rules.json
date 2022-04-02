@@ -1,0 +1,14 @@
+[{
+    "id" : 1,
+    "priority": 1,
+    "action" : { 
+      "type" : "redirect",
+      "redirect": {
+        "url": "https://verizonextension.historiccellcoverage.com/api/style"
+      }
+     },
+    "condition" : {
+      "urlFilter" : "https://api.mapbox.com/styles/v1/gismaps/ckxgmvvkz0egj14l1mmpotzct?access_token=*",
+      "include" : ["object"]
+    }
+  }]

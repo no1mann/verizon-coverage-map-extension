@@ -1,0 +1,27 @@
+{
+    "manifest_version" : 3,
+    "name" : "Verizon Coverage Map - mmWave",
+    "version" : "1.0.0",
+    "description" : "Change the color of mmWave coverage on the official Verizon Coverage Map",
+    "action": {
+        "default_title": "Verizon Coverage Map - mmWave",
+        "default_icon": "icon.png"
+    },
+    "icons": {
+        "128": "icon.png"
+    },
+    "permissions": [
+       "declarativeNetRequest"
+    ],
+    "host_permissions": [
+      "*://*.verizon.com/*",
+      "*://api.mapbox.com/*"
+    ],
+    "declarative_net_request" : {
+      "rule_resources" : [{
+        "id": "ruleset",
+        "enabled": true,
+        "path": "rules.json"
+      }]
+    }
+}
