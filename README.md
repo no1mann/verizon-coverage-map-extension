@@ -4,6 +4,9 @@ Change's the color of mmWave coverage on the official Verizon Coverage Map on Ch
 # Background
 After the launch of C-Band in January, Verizon made the decision to combine C-Band and mmWave coverage into the same color. This extension reverts that change and gives mmWave its own, unique color.
 
+# Download
+Download from the Chrome Web Store [here](https://chrome.google.com/webstore/detail/verizon-coverage-map-mmwa/onbpjfegjabhpbfnidnmdbgmaefachdp)
+
 # How To Install Locally
 1. Click the green "Code" button at the top of page and click "Download ZIP"
 2. Extract the contents of the ZIP file to a folder
