@@ -1,5 +1,5 @@
 # Verizon Coverage Map Chrome Extension
-Change's the color of mmWave coverage on the official Verizon Coverage Map on Chromium-Based Browsers. I'm currently in the process of getting the extension approved on the Chrome Web Store, but given the extension permissions, that could take weeks.
+Change's the color of mmWave coverage on the official Verizon Coverage Map on Chromium-Based Browsers.
 
 # Background
 After the launch of C-Band in January, Verizon made the decision to combine C-Band and mmWave coverage into the same color. This extension reverts that change and gives mmWave its own, unique color.
